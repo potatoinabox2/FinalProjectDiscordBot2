@@ -78,4 +78,4 @@ async def SWSHP(ctx):
   await ctx.channel.send(embed=embed)
 
 
-bot.run("MTEwMDkwNzE2MjMxOTk4Njc2MA.GcfNsR.Dt-LJrE6FDGba7QbcmndGc-oejh4ospOk4bAak")
+bot.run("TOKEN")
